@@ -1,0 +1,18 @@
+.movie1{
+    background-color: var(--card-background);
+    width: 300px;
+    padding: 28px 28px ;
+    border-radius: 12px;
+}
+.movie_img{
+    border-radius: 12px;
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+}
+.details{
+    display: block;
+    margin-top: 18px;
+    justify-content: space-between;
+    color: var(--text);
+}
